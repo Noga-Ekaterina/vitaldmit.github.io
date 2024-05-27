@@ -33,7 +33,7 @@
 }
 
 /* меньше 768 */
-@media (width < 768px) {
+@media (width < 576px) {
   .header__logo {
     width: 24px;
   }
